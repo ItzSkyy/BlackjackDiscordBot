@@ -12,7 +12,7 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 ## Reporting Bugs
-If you manage to find a bug in my project, please create an issue with [this](https://github.com/Magnito14/BlackjackDiscordBot/blob/main/.github/ISSUE_TEMPLATE/bug_report.md) template.
+If you manage to find a bug in my project, please create an issue with [this](https://github.com/Magnito14/BlackjackDiscordBot/blob/main/.github/ISSUE_TEMPLATE/bug_report.md) issue form template.
 
 Please do not stray off of the format of the template.
 

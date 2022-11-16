@@ -1,7 +1,7 @@
-<a href="https://github.com/Magnito14/Python-Blink-Detector"><img src="https://img.shields.io/badge/Open%20Source-Yes-green"></a>
-<a href="https://github.com/Magnito14/Python-Blink-Detector"><img src="https://img.shields.io/badge/Python-3.10-green"></a>
+[![Love](https://img.shields.io/badge/Open%20Source-Yes-green)]()
+<img src="https://img.shields.io/badge/Python-3.10-green"></a>
 <img alt="GitHub" src="https://img.shields.io/github/license/Magnito14/BlackjackDiscordBot">
-<a href="https://github.com/Magnito14/Python-Blink-Detector"><img src="https://img.shields.io/badge/Contributions-Welcome-green"></a>
+<img src="https://img.shields.io/badge/Contributions-Welcome-green"></a>
 
 # Blackjack Discord Bot
 Discord bot made in Python that allows you to play Blackjack

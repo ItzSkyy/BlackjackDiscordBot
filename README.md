@@ -1,7 +1,7 @@
 [![Love](https://img.shields.io/badge/Open%20Source-Yes-green)]()
-<img src="https://img.shields.io/badge/Python-3.10-green"></a>
-<img alt="GitHub" src="https://img.shields.io/github/license/Magnito14/BlackjackDiscordBot">
-<img src="https://img.shields.io/badge/Contributions-Welcome-green"></a>
+[![Python](https://img.shields.io/badge/Python-3.10-green)]()
+[![License](https://img.shields.io/github/license/Magnito14/BlackjackDiscordBot)]()
+[![Contribute](https://img.shields.io/badge/Contributions-Welcome-green)]()
 
 # Blackjack Discord Bot
 Discord bot made in Python that allows you to play Blackjack

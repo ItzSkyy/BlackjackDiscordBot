@@ -19,7 +19,7 @@ async def on_ready():
 		print(f"- {guild.id} (name: {guild.name})")
 		guild_count = guild_count + 1
 
-	print("BarryJack is in " + str(guild_count) + " guilds.")
+	print("BlackJack is in " + str(guild_count) + " guilds.")
 
 @bot.event
 async def on_message(message):
